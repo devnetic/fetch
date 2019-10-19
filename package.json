@@ -1,0 +1,35 @@
+{
+  "name": "@devnetic/fetch",
+  "version": "1.0.0",
+  "description": "The Fetch package provides an interface for fetching resources (including across the network).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnetic/fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "http",
+    "https",
+    "url",
+    "uri",
+    "request",
+    "curl",
+    "wget",
+    "net",
+    "simple",
+    "promise"
+  ],
+  "author": "Álvaro José Agámez Licha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devnetic/fetch/issues"
+  },
+  "homepage": "https://github.com/devnetic/fetch#readme"
+}
