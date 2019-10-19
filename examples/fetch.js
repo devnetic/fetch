@@ -1,4 +1,4 @@
-const { fetch } = require('./../index')
+const fetch = require('./../index')
 
 // GET
 fetch('https://jsonplaceholder.typicode.com/posts')

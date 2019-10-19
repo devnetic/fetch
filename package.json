@@ -1,6 +1,6 @@
 {
   "name": "@devnetic/fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Fetch package provides an interface for fetching resources (including across the network).",
   "main": "index.js",
   "scripts": {

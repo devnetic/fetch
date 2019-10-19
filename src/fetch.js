@@ -95,6 +95,4 @@ const fetch = (url, init = {}) => {
   })
 }
 
-module.exports = exports = {
-  fetch
-}
+module.exports = exports = fetch
